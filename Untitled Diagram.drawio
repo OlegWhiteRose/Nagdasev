@@ -1,20 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T13:42:40.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="zXslNZ4pbi7cji_aMSBt" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-26T13:43:07.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="b1vWkXutmaT4w9LW_Q6C" version="24.3.1" type="github">
   <diagram name="Page-1" id="JOVzcGNJen-IWIvnoUMp">
     <mxGraphModel dx="988" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3bn9WkGWR_MUdh82pVLr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3bn9WkGWR_MUdh82pVLr-1" target="3bn9WkGWR_MUdh82pVLr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3bn9WkGWR_MUdh82pVLr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3bn9WkGWR_MUdh82pVLr-1" target="3bn9WkGWR_MUdh82pVLr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3bn9WkGWR_MUdh82pVLr-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Класс Transport&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3bn9WkGWR_MUdh82pVLr-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Класс Car&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3bn9WkGWR_MUdh82pVLr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3bn9WkGWR_MUdh82pVLr-3" target="3bn9WkGWR_MUdh82pVLr-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3bn9WkGWR_MUdh82pVLr-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Класс Train&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3bn9WkGWR_MUdh82pVLr-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Класс Express&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
